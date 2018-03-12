@@ -1,0 +1,115 @@
+body {
+  font-size: 25px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+  font-family: Helvetica;
+  color: rgb(46,61,77);
+  font-weight: lighter;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: inherit;
+  padding: 50px
+}
+
+p{
+  font-family: Helvetica;
+  color: rgb(205,205,205);
+  font-size: 15px;
+  text-align: center;
+}
+h4 {
+  font-family: Helvetica;
+  color: rgb(255,255,255);
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+}
+a {
+  color: rgb(86,82,100);
+  text-align: center;
+}
+
+.card {
+  padding: 20px;
+  margin: 0,7%;
+  background-color: rgb(156,175,183);
+  border-radius: 10px;
+  border-color: rgb(46,61,77);
+}
+
+.cardimg {
+  height: 250px;
+  Width: 100%;
+  object-fit: cover;
+}
+
+.cardbody {
+
+}
+
+.cardtitle {
+text-align: center;
+padding: 8px;
+}
+
+.cardsubtitle {
+  text-align: center;
+}
+
+.cardtext {
+  text-align:justify;
+  padding: 10px;
+  font-size: 13px;
+}
+.padding {
+  padding: 30px
+}
+
+.row {
+  padding-bottom: : 30%;
+}
+
+
+.section {
+  padding-bottom: 100px;
+}
+
+#banner {
+  text-align: center;
+  padding: 150px 30px;
+  text-align: center;
+  background-image: url("https://www.alexciprianitravel.com/wp-content/uploads/2017/03/memba-sucba.00_05_31_12.Still004.jpg");
+  background-size: cover;
+}
+
+#map {
+  background-size: cover;
+}
+
+#footer {
+  padding: 30px;
+  color: rgb(226,226,226);
+}
+
+#footer a {
+  color: black;
+  font-size: 40px;
+}
+#footer a:hover {
+  color: #d3cba9;
+}
+
+.section-clear {
+  background: #212121;;
+}
